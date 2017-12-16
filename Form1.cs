@@ -26,5 +26,15 @@ namespace WindowsFormGUI
         {
 
         }
+
+        private void createBtn_Click(object sender, EventArgs e)
+        {
+            Contact cont = new Contact();
+            cont.FirstName = firstNameBox.Text;
+            cont.LastName = lastNameBox.Text;
+            cont.PhoneNum = phoneNumBox.Text;
+
+            contactListBox.Items.Add(cont.ToString());
+        }
     }
 }
