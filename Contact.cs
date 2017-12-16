@@ -60,7 +60,7 @@ namespace WindowsFormGUI
         {
             string output = String.Empty;
 
-            output += String.Format("{0}, {1}, {2}", this.LastName, this.FirstName, this.PhoneNum);
+            output += $"{LastName}, {FirstName} ({PhoneNum.Substring(0, 3)}) {PhoneNum.Substring(3, 3)}-{PhoneNum.Substring(6, 4)}";
             return output;
         }
 
