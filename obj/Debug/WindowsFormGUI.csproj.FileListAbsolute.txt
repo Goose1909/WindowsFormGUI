@@ -7,3 +7,4 @@ C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\Window
 C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.csproj.CoreCompileInputs.cache
 C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.exe
 C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.pdb
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.Form1.resources
