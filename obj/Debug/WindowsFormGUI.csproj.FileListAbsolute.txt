@@ -1,0 +1,9 @@
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\bin\Debug\WindowsFormGUI.exe.config
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\bin\Debug\WindowsFormGUI.exe
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\bin\Debug\WindowsFormGUI.pdb
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.csprojResolveAssemblyReference.cache
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.Properties.Resources.resources
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.csproj.GenerateResource.Cache
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.csproj.CoreCompileInputs.cache
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.exe
+C:\Users\Cole Peaden\source\repos\WindowsFormGUI\WindowsFormGUI\obj\Debug\WindowsFormGUI.pdb
